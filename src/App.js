@@ -40,7 +40,7 @@ useEffect (  ()=> {
     setActivity(data.activity);
     setType(data.type);
     setParticipants(data.participants);
-    window.scroll(0, 300);
+    window.scroll(0, 500);
 
 
     if (data.type === "music") {
