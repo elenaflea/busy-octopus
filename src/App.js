@@ -32,7 +32,7 @@ useEffect (  ()=> {
 
 
   const getActivity = async ()=> {
-    const responce = await fetch('http://www.boredapi.com/api/activity/:splat 200!');
+    const responce = await fetch('https://www.boredapi.com/api/activity/');
     const data = await responce.json();
     const pin = document.querySelector("#pin");
   
