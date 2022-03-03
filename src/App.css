@@ -89,7 +89,7 @@ h1{
   margin: 0 5px;
   cursor: pointer;
 }
-.star:hover{
+.star:hover, .star:focus{
   color:#dd62ff;
 }
 .zeropadding{
