@@ -132,7 +132,7 @@ useEffect (  ()=> {
 </div>
 <div className='footer'>
 
-  <a className='line' href='https://grondin.glitch.me/' target="_blank" rel="noreferrer" >
+  <a className='line' href='https://lunacode.fr/' target="_blank" rel="noreferrer" >
   <p className='footer-text'>
   Crafted with
   </p>
